@@ -1,0 +1,11 @@
+sdk-version: 0.13.54
+name: FabCar
+version: 1.0.0
+source: daml/FabCar.daml
+scenario: 
+parties:
+- User1
+- Admin
+dependencies:
+- daml-prim
+- daml-stdlib
