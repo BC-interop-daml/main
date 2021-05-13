@@ -24,7 +24,7 @@ repo: https://github.com/digital-asset/daml-on-fabric
 
 Path for DAML FabCar SC: HLF_FabCar_SC_DAML/daml/FabCar.daml
 
-```
+
 ### Step 3. Interact with python app
 
 ```
@@ -127,7 +127,6 @@ repo: https://github.com/digital-asset/daml-on-fabric
 
 Path for DAML FabCar SC: DAML-Relays/SMFabric/daml/FabCar.daml
 
-```
 ### Step 3. Interact with python libraries
 
 ```
