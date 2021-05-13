@@ -1,0 +1,1281 @@
+INFO:dazl:No server_port configuration was specified, so metrics and other stats will not be served.
+INFO:dazl:Network bots coroutine started.
+INFO:dazl:Party User1 bots coroutine started.
+INFO:dazl:Establishing a connection to http://localhost:80 on party User1...
+INFO:dazl:No server_port configuration was specified, so metrics and other stats will not be served.
+INFO:dazl:Network bots coroutine started.
+INFO:dazl:Party User1 bots coroutine started.
+INFO:dazl:Establishing a connection to http://localhost:6865 on party User1...
+INFO:dazl:Ledger ID: sandbox-42c89e8f-426f-4b9a-93da-7e502b8d396b
+INFO:dazl:Parsed 456048 bytes of metadata in 53 ms.
+INFO:dazl:Parsed 1372 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 463 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 194 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 59 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 357 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 235 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 840 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 53 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 871 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 74 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 1787 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 58 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 275 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 169 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 25068 bytes of metadata in 14 ms.
+INFO:dazl:Parsed 18006 bytes of metadata in  2 ms.
+INFO:dazl:Parsed 513 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 673099 bytes of metadata in 77 ms.
+INFO:dazl:Reading current ledger state from the Active Contract Set service...
+INFO:dazl:Writer loop for party User1 is starting...
+INFO:root:Initializing car for Tomoko
+INFO:root:Initializing car for Brad
+INFO:root:Initializing car for Jin Soo
+INFO:root:Initializing car for Max
+INFO:root:Initializing car for Adriana
+INFO:root:Initializing car for Michel
+INFO:root:Initializing car for Aarav
+INFO:root:Initializing car for Pari
+INFO:root:Initializing car for Valeria
+INFO:root:Initializing car for Shotaro
+INFO:dazl:cmd submit: party User1, workflow_id '12a8a55', command_id 'ee02474', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:cmd submit: party User1, workflow_id '8a9ac25', command_id 'c72cdc4', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:cmd submit: party User1, workflow_id '7a0364c', command_id 'a63ba51', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:cmd submit: party User1, workflow_id 'f617794', command_id 'e921107', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:cmd submit: party User1, workflow_id '08b2a04', command_id '8879468', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:cmd submit: party User1, workflow_id 'a314189', command_id 'a347d34', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:cmd submit: party User1, workflow_id 'cf41ea0', command_id 'ee6420e', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:cmd submit: party User1, workflow_id '5f9ebb8', command_id '8d8b762', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:cmd submit: party User1, workflow_id '13cdc27', command_id '8e02b07', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:cmd submit: party User1, workflow_id '8a65ac9', command_id '2c99a78', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:Processing transaction: 1, 12a8a5525c6f4dacba0911bab562669c, ee024748395947deb0f32e8921c43c08
+INFO:dazl:Processing transaction: 2, 8a9ac258b00f467882511a4eb3b4b559, c72cdc4b647844c5a45592c734327a3d
+INFO:dazl:Processing transaction: 3, 7a0364cc602f4fd08fb640ee18410ef2, a63ba5172d01418fa57c7e05fe52fded
+INFO:dazl:Processing transaction: 4, f617794d2f5d4148a8f62617cd402a27, e9211077a53f4f729586702013460873
+INFO:dazl:Processing transaction: 5, 08b2a04bf9fa4b0f937ecbfe1188ab7a, 8879468fe42e4f58964eefa21b2515df
+INFO:dazl:Processing transaction: 6, a314189b49a144fab6c54c054d4c6344, a347d341408c4be19415c9b3223866f1
+INFO:dazl:Processing transaction: 7, cf41ea0e8bb848dab9f95ec48fcf6d9d, ee6420e7c0644bfcbd30a2fd49765853
+INFO:dazl:Processing transaction: 8, 5f9ebb883cca49e6bc44e8bc88e1d4c1, 8d8b762adec14d10bfe42fe27892b942
+INFO:dazl:Processing transaction: 9, 13cdc27daf8648b2a1532aa1d3f0b66c, 8e02b078fdf84d4fac87c5c30c9d899a
+INFO:dazl:Processing transaction: 10, 8a65ac9dccc0439e81f2960640b92c8d, 2c99a780e67541509be164bd9d981e76
+INFO:dazl:network_run terminating on user request...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Writer loop for party User1 is winding down.
+INFO:dazl:Network bots coroutine finished.
+INFO:dazl:Party User1 bots coroutine finished.
+INFO:dazl:network_run: finished.
+INFO:dazl:The aio_run coroutine has completed.
+INFO:dazl:The internal run_forever event loop has been shut down.
+INFO:dazl:No server_port configuration was specified, so metrics and other stats will not be served.
+INFO:dazl:Network bots coroutine started.
+INFO:dazl:Party User1 bots coroutine started.
+INFO:dazl:Establishing a connection to http://localhost:6865 on party User1...
+INFO:dazl:Ledger ID: fabric-ledger
+INFO:dazl:Parsed 456048 bytes of metadata in 71 ms.
+INFO:dazl:Parsed 1372 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 463 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 194 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 59 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 357 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 235 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 840 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 53 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 871 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 74 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 1787 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 58 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 275 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 169 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 25068 bytes of metadata in  7 ms.
+INFO:dazl:Parsed 18006 bytes of metadata in  2 ms.
+INFO:dazl:Parsed 513 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 673099 bytes of metadata in 97 ms.
+INFO:dazl:Reading current ledger state from the Active Contract Set service...
+INFO:dazl:Writer loop for party User1 is starting...
+INFO:root:Initializing car for Tomoko
+INFO:root:Initializing car for Brad
+INFO:root:Initializing car for Jin Soo
+INFO:root:Initializing car for Max
+INFO:root:Initializing car for Adriana
+INFO:root:Initializing car for Michel
+INFO:root:Initializing car for Aarav
+INFO:root:Initializing car for Pari
+INFO:root:Initializing car for Valeria
+INFO:root:Initializing car for Shotaro
+INFO:dazl:cmd submit: party User1, workflow_id 'f5efefe', command_id 'a02b41e', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:cmd submit: party User1, workflow_id 'b6b90dc', command_id '6ea9253', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:Processing transaction: 132, f5efefee0186424ea3e9ccf5c0424daf, a02b41e95d074fccbe82e7cb2dec71f1
+INFO:dazl:cmd submit: party User1, workflow_id 'cd88608', command_id '916b24b', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:Processing transaction: 133, b6b90dc5a7c24377aa8c0a3ba65c2e85, 6ea92534516641888668da74a5aae3a7
+INFO:dazl:cmd submit: party User1, workflow_id '1033adf', command_id 'b9ef9ef', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:Processing transaction: 134, cd88608a7e2b46eebbed92b22157728d, 916b24b718044b6b8ab74fbfddca4907
+INFO:dazl:cmd submit: party User1, workflow_id '28eed52', command_id '2e6a29f', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:Processing transaction: 135, 1033adfb433a44cf8a22f013e98570c5, b9ef9eff6df84ffe972cc0ba44ac0791
+INFO:dazl:cmd submit: party User1, workflow_id '628ef33', command_id '62a18c7', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:Processing transaction: 136, 28eed5212c16402baa52fed972d5bb23, 2e6a29fe191d483eb12c7007504f7441
+INFO:dazl:cmd submit: party User1, workflow_id '9c90fbf', command_id '0a5ea32', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:Processing transaction: 137, 628ef3385d9f47a4a599871dca589477, 62a18c77a7fa42298fd6088de41b52a7
+INFO:dazl:cmd submit: party User1, workflow_id '401f204', command_id '892e14e', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:Processing transaction: 139, 9c90fbfa6c694d7fb5913a2a3a0fcb09, 0a5ea3259bcc40948d07c00abdaad003
+INFO:dazl:cmd submit: party User1, workflow_id '3eefa07', command_id '6b7b056', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:cmd submit: party User1, workflow_id 'c5c5fc6', command_id '1cc49c8', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:Processing transaction: 140, 401f204a00254ae79cdad9eeb1688915, 892e14ef73bd4525b05a91b65a0113ba
+INFO:dazl:Processing transaction: 141, 3eefa07e808f45f0942bb4d35e3d73e2, 6b7b0566fcd04c518165602ac16c29ad
+INFO:dazl:Processing transaction: 142, c5c5fc67b1a844fa846b9c41fda324e3, 1cc49c80042e4023a4c9bbe14b3f8912
+INFO:dazl:network_run terminating on user request...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Writer loop for party User1 is winding down.
+INFO:dazl:Network bots coroutine finished.
+INFO:dazl:Party User1 bots coroutine finished.
+INFO:dazl:network_run: finished.
+INFO:dazl:The aio_run coroutine has completed.
+INFO:dazl:The internal run_forever event loop has been shut down.
+INFO:dazl:No server_port configuration was specified, so metrics and other stats will not be served.
+INFO:dazl:Network bots coroutine started.
+INFO:dazl:Party User1 bots coroutine started.
+INFO:dazl:Establishing a connection to http://localhost:6865 on party User1...
+INFO:dazl:Ledger ID: fabric-ledger
+INFO:dazl:Parsed 456048 bytes of metadata in 53 ms.
+INFO:dazl:Parsed 1372 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 463 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 194 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 59 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 357 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 235 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 840 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 53 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 871 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 74 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 1787 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 58 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 275 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 169 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 25068 bytes of metadata in  4 ms.
+INFO:dazl:Parsed 18006 bytes of metadata in  2 ms.
+INFO:dazl:Parsed 513 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 673099 bytes of metadata in 75 ms.
+INFO:dazl:Reading current ledger state from the Active Contract Set service...
+INFO:dazl:Writer loop for party User1 is starting...
+INFO:dazl:Processing transaction: 132, f5efefee0186424ea3e9ccf5c0424daf, a02b41e95d074fccbe82e7cb2dec71f1
+INFO:dazl:Processing transaction: 133, b6b90dc5a7c24377aa8c0a3ba65c2e85, 6ea92534516641888668da74a5aae3a7
+INFO:dazl:Processing transaction: 134, cd88608a7e2b46eebbed92b22157728d, 916b24b718044b6b8ab74fbfddca4907
+INFO:dazl:Processing transaction: 135, 1033adfb433a44cf8a22f013e98570c5, b9ef9eff6df84ffe972cc0ba44ac0791
+INFO:dazl:Processing transaction: 136, 28eed5212c16402baa52fed972d5bb23, 2e6a29fe191d483eb12c7007504f7441
+INFO:dazl:Processing transaction: 137, 628ef3385d9f47a4a599871dca589477, 62a18c77a7fa42298fd6088de41b52a7
+INFO:dazl:Processing transaction: 139, 9c90fbfa6c694d7fb5913a2a3a0fcb09, 0a5ea3259bcc40948d07c00abdaad003
+INFO:dazl:Processing transaction: 140, 401f204a00254ae79cdad9eeb1688915, 892e14ef73bd4525b05a91b65a0113ba
+INFO:dazl:Processing transaction: 141, 3eefa07e808f45f0942bb4d35e3d73e2, 6b7b0566fcd04c518165602ac16c29ad
+INFO:dazl:Processing transaction: 142, c5c5fc67b1a844fa846b9c41fda324e3, 1cc49c80042e4023a4c9bbe14b3f8912
+INFO:dazl:cmd submit: party User1, workflow_id '7dc154b', command_id 'e5aee58', 1 command: '[<exercise "Ne...D78C5DDB8FB:0>]'
+INFO:dazl:Processing transaction: 151, 7dc154b7537f45df8e30a66a52514994, e5aee585e1ef42bea540d3ea2f47a337
+INFO:dazl:network_run terminating on user request...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Writer loop for party User1 is winding down.
+INFO:dazl:Network bots coroutine finished.
+INFO:dazl:Party User1 bots coroutine finished.
+INFO:dazl:network_run: finished.
+INFO:dazl:The aio_run coroutine has completed.
+INFO:dazl:The internal run_forever event loop has been shut down.
+INFO:dazl:No server_port configuration was specified, so metrics and other stats will not be served.
+INFO:dazl:Network bots coroutine started.
+INFO:dazl:Party Admin bots coroutine started.
+INFO:dazl:Establishing a connection to http://localhost:6865 on party Admin...
+INFO:dazl:Ledger ID: fabric-ledger
+INFO:dazl:Parsed 456048 bytes of metadata in 58 ms.
+INFO:dazl:Parsed 1372 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 463 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 194 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 59 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 357 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 235 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 840 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 53 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 871 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 74 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 1787 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 58 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 275 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 169 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 25068 bytes of metadata in  3 ms.
+INFO:dazl:Parsed 18006 bytes of metadata in  2 ms.
+INFO:dazl:Parsed 513 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 673099 bytes of metadata in 75 ms.
+INFO:dazl:Reading current ledger state from the Active Contract Set service...
+INFO:dazl:Writer loop for party Admin is starting...
+INFO:dazl:Processing transaction: 132, f5efefee0186424ea3e9ccf5c0424daf, 
+INFO:dazl:Processing transaction: 133, b6b90dc5a7c24377aa8c0a3ba65c2e85, 
+INFO:dazl:Processing transaction: 134, cd88608a7e2b46eebbed92b22157728d, 
+INFO:dazl:Processing transaction: 135, 1033adfb433a44cf8a22f013e98570c5, 
+INFO:dazl:Processing transaction: 136, 28eed5212c16402baa52fed972d5bb23, 
+INFO:dazl:Processing transaction: 137, 628ef3385d9f47a4a599871dca589477, 
+INFO:dazl:Processing transaction: 139, 9c90fbfa6c694d7fb5913a2a3a0fcb09, 
+INFO:dazl:Processing transaction: 140, 401f204a00254ae79cdad9eeb1688915, 
+INFO:dazl:Processing transaction: 141, 3eefa07e808f45f0942bb4d35e3d73e2, 
+INFO:dazl:Processing transaction: 142, c5c5fc67b1a844fa846b9c41fda324e3, 
+INFO:dazl:Processing transaction: 151, 7dc154b7537f45df8e30a66a52514994, 
+INFO:dazl:cmd submit: party Admin, workflow_id '4f9ced7', command_id 'bdab835', 1 command: "[<create FabCa...in': 'User1'}>]"
+INFO:dazl:Processing transaction: 172, 4f9ced7830e24f07be0abc8a8ada99d7, bdab835bc3f34f95a7d372cabd51258f
+INFO:dazl:network_run terminating on user request...
+INFO:dazl:Stopping the bot thread for party 'Admin'...
+INFO:dazl:Stopping the bot thread for party 'Admin'...
+INFO:dazl:Writer loop for party Admin is winding down.
+INFO:dazl:Network bots coroutine finished.
+INFO:dazl:Party Admin bots coroutine finished.
+INFO:dazl:network_run: finished.
+INFO:dazl:The aio_run coroutine has completed.
+INFO:dazl:The internal run_forever event loop has been shut down.
+INFO:dazl:No server_port configuration was specified, so metrics and other stats will not be served.
+INFO:dazl:Network bots coroutine started.
+INFO:dazl:Party Admin bots coroutine started.
+INFO:dazl:Establishing a connection to http://localhost:6865 on party Admin...
+INFO:dazl:Ledger ID: fabric-ledger
+INFO:dazl:Parsed 456048 bytes of metadata in 60 ms.
+INFO:dazl:Parsed 1372 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 463 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 194 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 59 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 357 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 235 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 840 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 53 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 871 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 74 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 1787 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 58 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 275 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 169 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 25068 bytes of metadata in  8 ms.
+INFO:dazl:Parsed 18006 bytes of metadata in  2 ms.
+INFO:dazl:Parsed 513 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 673099 bytes of metadata in 91 ms.
+INFO:dazl:Reading current ledger state from the Active Contract Set service...
+INFO:dazl:Writer loop for party Admin is starting...
+INFO:dazl:Processing transaction: 132, f5efefee0186424ea3e9ccf5c0424daf, 
+INFO:dazl:Processing transaction: 133, b6b90dc5a7c24377aa8c0a3ba65c2e85, 
+INFO:dazl:Processing transaction: 134, cd88608a7e2b46eebbed92b22157728d, 
+INFO:dazl:Processing transaction: 135, 1033adfb433a44cf8a22f013e98570c5, 
+INFO:dazl:Processing transaction: 136, 28eed5212c16402baa52fed972d5bb23, 
+INFO:dazl:Processing transaction: 137, 628ef3385d9f47a4a599871dca589477, 
+INFO:dazl:Processing transaction: 139, 9c90fbfa6c694d7fb5913a2a3a0fcb09, 
+INFO:dazl:Processing transaction: 140, 401f204a00254ae79cdad9eeb1688915, 
+INFO:dazl:Processing transaction: 141, 3eefa07e808f45f0942bb4d35e3d73e2, 
+INFO:dazl:Processing transaction: 142, c5c5fc67b1a844fa846b9c41fda324e3, 
+INFO:dazl:Processing transaction: 151, 7dc154b7537f45df8e30a66a52514994, 
+INFO:dazl:Processing transaction: 172, 4f9ced7830e24f07be0abc8a8ada99d7, bdab835bc3f34f95a7d372cabd51258f
+INFO:dazl:cmd submit: party Admin, workflow_id '17f91bc', command_id 'af313fa', 1 command: "[<create FabCa...in': 'User1'}>]"
+INFO:dazl:Processing transaction: 297, 17f91bc796a245c6a24ad06fa7228427, af313fa59a3b4a509d7c554118c1b739
+INFO:dazl:network_run terminating on user request...
+INFO:dazl:Stopping the bot thread for party 'Admin'...
+INFO:dazl:Stopping the bot thread for party 'Admin'...
+INFO:dazl:Writer loop for party Admin is winding down.
+INFO:dazl:Network bots coroutine finished.
+INFO:dazl:Party Admin bots coroutine finished.
+INFO:dazl:network_run: finished.
+INFO:dazl:The aio_run coroutine has completed.
+INFO:dazl:The internal run_forever event loop has been shut down.
+INFO:dazl:No server_port configuration was specified, so metrics and other stats will not be served.
+INFO:dazl:Network bots coroutine started.
+INFO:dazl:Party Admin bots coroutine started.
+INFO:dazl:Establishing a connection to http://localhost:6865 on party Admin...
+INFO:dazl:Ledger ID: fabric-ledger
+INFO:dazl:Parsed 456048 bytes of metadata in 62 ms.
+INFO:dazl:Parsed 1372 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 463 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 194 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 59 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 357 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 235 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 840 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 53 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 871 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 74 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 1787 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 58 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 275 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 169 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 25068 bytes of metadata in  6 ms.
+INFO:dazl:Parsed 18006 bytes of metadata in  2 ms.
+INFO:dazl:Parsed 513 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 673099 bytes of metadata in 95 ms.
+INFO:dazl:Reading current ledger state from the Active Contract Set service...
+INFO:dazl:Writer loop for party Admin is starting...
+INFO:dazl:Processing transaction: 132, f5efefee0186424ea3e9ccf5c0424daf, 
+INFO:dazl:Processing transaction: 133, b6b90dc5a7c24377aa8c0a3ba65c2e85, 
+INFO:dazl:Processing transaction: 134, cd88608a7e2b46eebbed92b22157728d, 
+INFO:dazl:Processing transaction: 135, 1033adfb433a44cf8a22f013e98570c5, 
+INFO:dazl:Processing transaction: 136, 28eed5212c16402baa52fed972d5bb23, 
+INFO:dazl:Processing transaction: 137, 628ef3385d9f47a4a599871dca589477, 
+INFO:dazl:Processing transaction: 139, 9c90fbfa6c694d7fb5913a2a3a0fcb09, 
+INFO:dazl:Processing transaction: 140, 401f204a00254ae79cdad9eeb1688915, 
+INFO:dazl:Processing transaction: 141, 3eefa07e808f45f0942bb4d35e3d73e2, 
+INFO:dazl:Processing transaction: 142, c5c5fc67b1a844fa846b9c41fda324e3, 
+INFO:dazl:Processing transaction: 151, 7dc154b7537f45df8e30a66a52514994, 
+INFO:dazl:Processing transaction: 172, 4f9ced7830e24f07be0abc8a8ada99d7, bdab835bc3f34f95a7d372cabd51258f
+INFO:dazl:Processing transaction: 297, 17f91bc796a245c6a24ad06fa7228427, af313fa59a3b4a509d7c554118c1b739
+INFO:dazl:No server_port configuration was specified, so metrics and other stats will not be served.
+INFO:dazl:Network bots coroutine started.
+INFO:dazl:Party Admin bots coroutine started.
+INFO:dazl:Establishing a connection to http://localhost:6865 on party Admin...
+INFO:dazl:Ledger ID: fabric-ledger
+INFO:dazl:Parsed 456048 bytes of metadata in 55 ms.
+INFO:dazl:Parsed 1372 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 463 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 194 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 59 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 357 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 235 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 840 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 53 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 871 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 74 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 1787 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 58 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 275 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 169 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 25068 bytes of metadata in  3 ms.
+INFO:dazl:Parsed 18006 bytes of metadata in  2 ms.
+INFO:dazl:Parsed 513 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 673099 bytes of metadata in 74 ms.
+INFO:dazl:Reading current ledger state from the Active Contract Set service...
+INFO:dazl:Writer loop for party Admin is starting...
+INFO:dazl:Processing transaction: 132, f5efefee0186424ea3e9ccf5c0424daf, 
+INFO:dazl:Processing transaction: 133, b6b90dc5a7c24377aa8c0a3ba65c2e85, 
+INFO:dazl:Processing transaction: 134, cd88608a7e2b46eebbed92b22157728d, 
+INFO:dazl:Processing transaction: 135, 1033adfb433a44cf8a22f013e98570c5, 
+INFO:dazl:Processing transaction: 136, 28eed5212c16402baa52fed972d5bb23, 
+INFO:dazl:Processing transaction: 137, 628ef3385d9f47a4a599871dca589477, 
+INFO:dazl:Processing transaction: 139, 9c90fbfa6c694d7fb5913a2a3a0fcb09, 
+INFO:dazl:Processing transaction: 140, 401f204a00254ae79cdad9eeb1688915, 
+INFO:dazl:Processing transaction: 141, 3eefa07e808f45f0942bb4d35e3d73e2, 
+INFO:dazl:Processing transaction: 142, c5c5fc67b1a844fa846b9c41fda324e3, 
+INFO:dazl:Processing transaction: 151, 7dc154b7537f45df8e30a66a52514994, 
+INFO:dazl:Processing transaction: 172, 4f9ced7830e24f07be0abc8a8ada99d7, bdab835bc3f34f95a7d372cabd51258f
+INFO:dazl:Processing transaction: 297, 17f91bc796a245c6a24ad06fa7228427, af313fa59a3b4a509d7c554118c1b739
+INFO:dazl:No server_port configuration was specified, so metrics and other stats will not be served.
+INFO:dazl:Network bots coroutine started.
+INFO:dazl:Party Admin bots coroutine started.
+INFO:dazl:Establishing a connection to http://localhost:6865 on party Admin...
+INFO:dazl:Ledger ID: fabric-ledger
+INFO:dazl:Parsed 456048 bytes of metadata in 51 ms.
+INFO:dazl:Parsed 1372 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 463 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 194 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 59 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 357 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 235 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 840 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 53 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 871 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 74 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 1787 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 58 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 275 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 169 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 25068 bytes of metadata in  3 ms.
+INFO:dazl:Parsed 18006 bytes of metadata in  2 ms.
+INFO:dazl:Parsed 513 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 673099 bytes of metadata in 76 ms.
+INFO:dazl:Reading current ledger state from the Active Contract Set service...
+INFO:dazl:Writer loop for party Admin is starting...
+INFO:dazl:Processing transaction: 132, f5efefee0186424ea3e9ccf5c0424daf, 
+INFO:dazl:Processing transaction: 133, b6b90dc5a7c24377aa8c0a3ba65c2e85, 
+INFO:dazl:Processing transaction: 134, cd88608a7e2b46eebbed92b22157728d, 
+INFO:dazl:Processing transaction: 135, 1033adfb433a44cf8a22f013e98570c5, 
+INFO:dazl:Processing transaction: 136, 28eed5212c16402baa52fed972d5bb23, 
+INFO:dazl:Processing transaction: 137, 628ef3385d9f47a4a599871dca589477, 
+INFO:dazl:Processing transaction: 139, 9c90fbfa6c694d7fb5913a2a3a0fcb09, 
+INFO:dazl:Processing transaction: 140, 401f204a00254ae79cdad9eeb1688915, 
+INFO:dazl:Processing transaction: 141, 3eefa07e808f45f0942bb4d35e3d73e2, 
+INFO:dazl:Processing transaction: 142, c5c5fc67b1a844fa846b9c41fda324e3, 
+INFO:dazl:Processing transaction: 151, 7dc154b7537f45df8e30a66a52514994, 
+INFO:dazl:Processing transaction: 172, 4f9ced7830e24f07be0abc8a8ada99d7, bdab835bc3f34f95a7d372cabd51258f
+INFO:dazl:Processing transaction: 297, 17f91bc796a245c6a24ad06fa7228427, af313fa59a3b4a509d7c554118c1b739
+INFO:dazl:cmd submit: party Admin, workflow_id '27f7b36', command_id '1a3a9d3', 1 command: "[<create FabCa...in': 'User1'}>]"
+INFO:dazl:Processing transaction: 1104, 27f7b3621c4d44688b460f9c5bd93b22, 1a3a9d3f78034087a11c60bfa1216bb3
+INFO:dazl:network_run terminating on user request...
+INFO:dazl:Stopping the bot thread for party 'Admin'...
+INFO:dazl:Writer loop for party Admin is winding down.
+INFO:dazl:Network bots coroutine finished.
+INFO:dazl:Party Admin bots coroutine finished.
+INFO:dazl:network_run: finished.
+INFO:dazl:The aio_run coroutine has completed.
+INFO:dazl:The internal run_forever event loop has been shut down.
+INFO:dazl:No server_port configuration was specified, so metrics and other stats will not be served.
+INFO:dazl:Network bots coroutine started.
+INFO:dazl:Party User1 bots coroutine started.
+INFO:dazl:Establishing a connection to http://localhost:6865 on party User1...
+INFO:dazl:Ledger ID: fabric-ledger
+INFO:dazl:Parsed 456048 bytes of metadata in 51 ms.
+INFO:dazl:Parsed 1372 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 463 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 194 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 59 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 357 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 235 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 840 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 53 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 871 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 74 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 1787 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 58 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 275 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 169 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 25068 bytes of metadata in  3 ms.
+INFO:dazl:Parsed 18006 bytes of metadata in  3 ms.
+INFO:dazl:Parsed 513 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 673099 bytes of metadata in 79 ms.
+INFO:dazl:Reading current ledger state from the Active Contract Set service...
+INFO:dazl:Writer loop for party User1 is starting...
+INFO:dazl:Processing transaction: 132, f5efefee0186424ea3e9ccf5c0424daf, a02b41e95d074fccbe82e7cb2dec71f1
+INFO:dazl:Processing transaction: 133, b6b90dc5a7c24377aa8c0a3ba65c2e85, 6ea92534516641888668da74a5aae3a7
+INFO:dazl:Processing transaction: 134, cd88608a7e2b46eebbed92b22157728d, 916b24b718044b6b8ab74fbfddca4907
+INFO:dazl:Processing transaction: 135, 1033adfb433a44cf8a22f013e98570c5, b9ef9eff6df84ffe972cc0ba44ac0791
+INFO:dazl:Processing transaction: 136, 28eed5212c16402baa52fed972d5bb23, 2e6a29fe191d483eb12c7007504f7441
+INFO:dazl:Processing transaction: 137, 628ef3385d9f47a4a599871dca589477, 62a18c77a7fa42298fd6088de41b52a7
+INFO:dazl:Processing transaction: 139, 9c90fbfa6c694d7fb5913a2a3a0fcb09, 0a5ea3259bcc40948d07c00abdaad003
+INFO:dazl:Processing transaction: 140, 401f204a00254ae79cdad9eeb1688915, 892e14ef73bd4525b05a91b65a0113ba
+INFO:dazl:Processing transaction: 141, 3eefa07e808f45f0942bb4d35e3d73e2, 6b7b0566fcd04c518165602ac16c29ad
+INFO:dazl:Processing transaction: 142, c5c5fc67b1a844fa846b9c41fda324e3, 1cc49c80042e4023a4c9bbe14b3f8912
+INFO:dazl:Processing transaction: 151, 7dc154b7537f45df8e30a66a52514994, e5aee585e1ef42bea540d3ea2f47a337
+INFO:dazl:Processing transaction: 172, 4f9ced7830e24f07be0abc8a8ada99d7, 
+INFO:dazl:Processing transaction: 297, 17f91bc796a245c6a24ad06fa7228427, 
+INFO:dazl:Processing transaction: 1104, 27f7b3621c4d44688b460f9c5bd93b22, 
+INFO:root:Initializing car for Tomoko
+INFO:root:Initializing car for Brad
+INFO:root:Initializing car for Jin Soo
+INFO:root:Initializing car for Max
+INFO:root:Initializing car for Adriana
+INFO:root:Initializing car for Michel
+INFO:root:Initializing car for Aarav
+INFO:root:Initializing car for Pari
+INFO:root:Initializing car for Valeria
+INFO:root:Initializing car for Shotaro
+INFO:dazl:cmd submit: party User1, workflow_id 'a9e5863', command_id 'bc944a5', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:cmd submit: party User1, workflow_id '7a73202', command_id 'e980bb7', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:Processing transaction: 1133, a9e586335c45495284d4443b7eceb6d5, bc944a5ccfbd449299f40eee3679f20e
+INFO:dazl:cmd submit: party User1, workflow_id '0b9ef98', command_id '827cbac', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:cmd submit: party User1, workflow_id '51a2b44', command_id '2f0ff21', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:Processing transaction: 1134, 7a732027a92b4aeb9c59ad801283f8e5, e980bb7fd44e48658f499a781bb4c57b
+INFO:dazl:Processing transaction: 1135, 0b9ef98fe51c49bca056535867eaca07, 827cbacbe7834a13af136c065a4f10a4
+INFO:dazl:cmd submit: party User1, workflow_id '257dff9', command_id '7576380', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:Processing transaction: 1136, 51a2b44c9daf443dbd1a9540490956ee, 2f0ff21f06964a5d83adbdc3813e74e2
+INFO:dazl:cmd submit: party User1, workflow_id 'aa52a58', command_id '36de1f5', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:cmd submit: party User1, workflow_id '02b669a', command_id '32f1ca2', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:Processing transaction: 1137, 257dff94ecfd4443af617b00bbfd3ad8, 75763806788640f98c6465a0390d8cd4
+INFO:dazl:Processing transaction: 1138, aa52a58b322e4d5e9d46fd5132389366, 36de1f5389ef4f78aa27f675225486da
+INFO:dazl:cmd submit: party User1, workflow_id 'ab6a915', command_id '68f0d06', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:Processing transaction: 1139, 02b669a4adad4dd39dc9e414d8857de7, 32f1ca2ce25548f7b897a0d27180e0aa
+INFO:dazl:cmd submit: party User1, workflow_id '3414099', command_id 'f7f2b75', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:Processing transaction: 1141, ab6a915c8c444e88adbdcbbcc03e02f9, 68f0d06efe214cfa91542eb08eba2ee0
+INFO:dazl:cmd submit: party User1, workflow_id '30a99a6', command_id '944f529', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:Processing transaction: 1142, 34140994c4e8424d802a94514cbeb6b1, f7f2b7595b9d4a99b147c76b01b9eef7
+INFO:dazl:Processing transaction: 1143, 30a99a65886e45eda7ae1a4a7b227088, 944f529da2504406b05d8ca560ad20d4
+INFO:dazl:network_run terminating on user request...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Writer loop for party User1 is winding down.
+INFO:dazl:Network bots coroutine finished.
+INFO:dazl:Party User1 bots coroutine finished.
+INFO:dazl:network_run: finished.
+INFO:dazl:The aio_run coroutine has completed.
+INFO:dazl:The internal run_forever event loop has been shut down.
+INFO:dazl:No server_port configuration was specified, so metrics and other stats will not be served.
+INFO:dazl:Network bots coroutine started.
+INFO:dazl:Party Admin bots coroutine started.
+INFO:dazl:Establishing a connection to http://localhost:6865 on party Admin...
+INFO:dazl:Ledger ID: fabric-ledger
+INFO:dazl:Parsed 456048 bytes of metadata in 74 ms.
+INFO:dazl:Parsed 1372 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 463 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 194 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 59 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 357 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 235 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 840 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 53 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 871 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 74 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 1787 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 58 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 275 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 169 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 25068 bytes of metadata in  3 ms.
+INFO:dazl:Parsed 18006 bytes of metadata in  2 ms.
+INFO:dazl:Parsed 513 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 673099 bytes of metadata in 78 ms.
+INFO:dazl:Reading current ledger state from the Active Contract Set service...
+INFO:dazl:Writer loop for party Admin is starting...
+INFO:dazl:Processing transaction: 132, f5efefee0186424ea3e9ccf5c0424daf, 
+INFO:dazl:Processing transaction: 133, b6b90dc5a7c24377aa8c0a3ba65c2e85, 
+INFO:dazl:Processing transaction: 134, cd88608a7e2b46eebbed92b22157728d, 
+INFO:dazl:Processing transaction: 135, 1033adfb433a44cf8a22f013e98570c5, 
+INFO:dazl:Processing transaction: 136, 28eed5212c16402baa52fed972d5bb23, 
+INFO:dazl:Processing transaction: 137, 628ef3385d9f47a4a599871dca589477, 
+INFO:dazl:Processing transaction: 139, 9c90fbfa6c694d7fb5913a2a3a0fcb09, 
+INFO:dazl:Processing transaction: 140, 401f204a00254ae79cdad9eeb1688915, 
+INFO:dazl:Processing transaction: 141, 3eefa07e808f45f0942bb4d35e3d73e2, 
+INFO:dazl:Processing transaction: 142, c5c5fc67b1a844fa846b9c41fda324e3, 
+INFO:dazl:Processing transaction: 151, 7dc154b7537f45df8e30a66a52514994, 
+INFO:dazl:Processing transaction: 172, 4f9ced7830e24f07be0abc8a8ada99d7, bdab835bc3f34f95a7d372cabd51258f
+INFO:dazl:Processing transaction: 297, 17f91bc796a245c6a24ad06fa7228427, af313fa59a3b4a509d7c554118c1b739
+INFO:dazl:Processing transaction: 1104, 27f7b3621c4d44688b460f9c5bd93b22, 1a3a9d3f78034087a11c60bfa1216bb3
+INFO:dazl:Processing transaction: 1133, a9e586335c45495284d4443b7eceb6d5, 
+INFO:dazl:Processing transaction: 1134, 7a732027a92b4aeb9c59ad801283f8e5, 
+INFO:dazl:Processing transaction: 1135, 0b9ef98fe51c49bca056535867eaca07, 
+INFO:dazl:Processing transaction: 1136, 51a2b44c9daf443dbd1a9540490956ee, 
+INFO:dazl:Processing transaction: 1137, 257dff94ecfd4443af617b00bbfd3ad8, 
+INFO:dazl:Processing transaction: 1138, aa52a58b322e4d5e9d46fd5132389366, 
+INFO:dazl:Processing transaction: 1139, 02b669a4adad4dd39dc9e414d8857de7, 
+INFO:dazl:Processing transaction: 1141, ab6a915c8c444e88adbdcbbcc03e02f9, 
+INFO:dazl:Processing transaction: 1142, 34140994c4e8424d802a94514cbeb6b1, 
+INFO:dazl:Processing transaction: 1143, 30a99a65886e45eda7ae1a4a7b227088, 
+INFO:dazl:No server_port configuration was specified, so metrics and other stats will not be served.
+INFO:dazl:Network bots coroutine started.
+INFO:dazl:Party Admin bots coroutine started.
+INFO:dazl:Establishing a connection to http://localhost:6865 on party Admin...
+INFO:dazl:Ledger ID: fabric-ledger
+INFO:dazl:Parsed 456048 bytes of metadata in 49 ms.
+INFO:dazl:Parsed 1372 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 463 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 194 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 59 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 357 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 235 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 840 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 53 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 871 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 74 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 1787 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 58 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 275 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 169 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 25068 bytes of metadata in  3 ms.
+INFO:dazl:Parsed 18006 bytes of metadata in  2 ms.
+INFO:dazl:Parsed 513 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 673099 bytes of metadata in 87 ms.
+INFO:dazl:Reading current ledger state from the Active Contract Set service...
+INFO:dazl:Writer loop for party Admin is starting...
+INFO:dazl:Processing transaction: 132, f5efefee0186424ea3e9ccf5c0424daf, 
+INFO:dazl:Processing transaction: 133, b6b90dc5a7c24377aa8c0a3ba65c2e85, 
+INFO:dazl:Processing transaction: 134, cd88608a7e2b46eebbed92b22157728d, 
+INFO:dazl:Processing transaction: 135, 1033adfb433a44cf8a22f013e98570c5, 
+INFO:dazl:Processing transaction: 136, 28eed5212c16402baa52fed972d5bb23, 
+INFO:dazl:Processing transaction: 137, 628ef3385d9f47a4a599871dca589477, 
+INFO:dazl:Processing transaction: 139, 9c90fbfa6c694d7fb5913a2a3a0fcb09, 
+INFO:dazl:Processing transaction: 140, 401f204a00254ae79cdad9eeb1688915, 
+INFO:dazl:Processing transaction: 141, 3eefa07e808f45f0942bb4d35e3d73e2, 
+INFO:dazl:Processing transaction: 142, c5c5fc67b1a844fa846b9c41fda324e3, 
+INFO:dazl:Processing transaction: 151, 7dc154b7537f45df8e30a66a52514994, 
+INFO:dazl:Processing transaction: 172, 4f9ced7830e24f07be0abc8a8ada99d7, bdab835bc3f34f95a7d372cabd51258f
+INFO:dazl:Processing transaction: 297, 17f91bc796a245c6a24ad06fa7228427, af313fa59a3b4a509d7c554118c1b739
+INFO:dazl:Processing transaction: 1104, 27f7b3621c4d44688b460f9c5bd93b22, 1a3a9d3f78034087a11c60bfa1216bb3
+INFO:dazl:Processing transaction: 1133, a9e586335c45495284d4443b7eceb6d5, 
+INFO:dazl:Processing transaction: 1134, 7a732027a92b4aeb9c59ad801283f8e5, 
+INFO:dazl:Processing transaction: 1135, 0b9ef98fe51c49bca056535867eaca07, 
+INFO:dazl:Processing transaction: 1136, 51a2b44c9daf443dbd1a9540490956ee, 
+INFO:dazl:Processing transaction: 1137, 257dff94ecfd4443af617b00bbfd3ad8, 
+INFO:dazl:Processing transaction: 1138, aa52a58b322e4d5e9d46fd5132389366, 
+INFO:dazl:Processing transaction: 1139, 02b669a4adad4dd39dc9e414d8857de7, 
+INFO:dazl:Processing transaction: 1141, ab6a915c8c444e88adbdcbbcc03e02f9, 
+INFO:dazl:Processing transaction: 1142, 34140994c4e8424d802a94514cbeb6b1, 
+INFO:dazl:Processing transaction: 1143, 30a99a65886e45eda7ae1a4a7b227088, 
+INFO:dazl:cmd submit: party Admin, workflow_id '1410bca', command_id '043df33', 1 command: "[<create FabCa...in': 'User1'}>]"
+INFO:dazl:Processing transaction: 1335, 1410bca180264009a2287f1a6d08aad3, 043df338af8648938da5744870293877
+INFO:dazl:network_run terminating on user request...
+INFO:dazl:Stopping the bot thread for party 'Admin'...
+INFO:dazl:Stopping the bot thread for party 'Admin'...
+INFO:dazl:Stopping the bot thread for party 'Admin'...
+INFO:dazl:Writer loop for party Admin is winding down.
+INFO:dazl:Network bots coroutine finished.
+INFO:dazl:Party Admin bots coroutine finished.
+INFO:dazl:network_run: finished.
+INFO:dazl:The aio_run coroutine has completed.
+INFO:dazl:The internal run_forever event loop has been shut down.
+INFO:dazl:No server_port configuration was specified, so metrics and other stats will not be served.
+INFO:dazl:Network bots coroutine started.
+INFO:dazl:Party User1 bots coroutine started.
+INFO:dazl:Establishing a connection to http://localhost:6865 on party User1...
+INFO:dazl:Ledger ID: fabric-ledger
+INFO:dazl:Parsed 456048 bytes of metadata in 54 ms.
+INFO:dazl:Parsed 1372 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 463 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 194 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 59 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 357 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 235 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 840 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 53 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 871 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 74 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 1787 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 58 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 275 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 169 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 25068 bytes of metadata in  3 ms.
+INFO:dazl:Parsed 18006 bytes of metadata in  2 ms.
+INFO:dazl:Parsed 513 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 673099 bytes of metadata in 77 ms.
+INFO:dazl:Reading current ledger state from the Active Contract Set service...
+INFO:dazl:Writer loop for party User1 is starting...
+INFO:root:Initializing car for Tomoko
+INFO:root:Initializing car for Brad
+INFO:root:Initializing car for Jin Soo
+INFO:root:Initializing car for Max
+INFO:root:Initializing car for Adriana
+INFO:root:Initializing car for Michel
+INFO:root:Initializing car for Aarav
+INFO:root:Initializing car for Pari
+INFO:root:Initializing car for Valeria
+INFO:root:Initializing car for Shotaro
+INFO:dazl:cmd submit: party User1, workflow_id '7481712', command_id 'abe0e66', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:cmd submit: party User1, workflow_id '68d2b2e', command_id '3fa56d9', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:Processing transaction: 29, 7481712ac144465d8401ca7307d3d9f9, abe0e664243d4910bb271ae0650d174c
+INFO:dazl:cmd submit: party User1, workflow_id '8171f95', command_id '1e5754f', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:Processing transaction: 31, 68d2b2e4a4874b1c817d8c19808f8693, 3fa56d955d354f0682907fd7df8f2a0d
+INFO:dazl:cmd submit: party User1, workflow_id 'b3e805f', command_id '4e74573', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:Processing transaction: 32, 8171f95362a04efc84d311c1c7262e5a, 1e5754fa5f9f4857a17df7c0a1a03faa
+INFO:dazl:cmd submit: party User1, workflow_id '9f0c255', command_id '19abc2b', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:cmd submit: party User1, workflow_id 'de98a6b', command_id '26e92d4', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:Processing transaction: 33, b3e805fd65484ee9906c2c8f3678f3ab, 4e745737fefc48c982d6f2e08a36ae8f
+INFO:dazl:Processing transaction: 34, 9f0c255ce0e84d6b91f1462233cd24b1, 19abc2b5179f4f9fa282a5949d620c9b
+INFO:dazl:cmd submit: party User1, workflow_id 'bfc7330', command_id '86978a1', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:Processing transaction: 35, de98a6b92abf454ba15272d1909b1c09, 26e92d4ac28949c9a5269155fc70c98c
+INFO:dazl:cmd submit: party User1, workflow_id '3098c03', command_id 'fee0703', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:Processing transaction: 36, bfc73305ade144ee9273d489a62a5038, 86978a1d4b7142c0966c708e15ca05ac
+INFO:dazl:cmd submit: party User1, workflow_id '570e4d8', command_id '79b06ec', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:Processing transaction: 37, 3098c03868754d979202611783cf0c9b, fee07036424749eca2feb653bc3d143d
+INFO:dazl:Processing transaction: 38, 570e4d82bae347a0bc5fd7a59b71b9de, 79b06ecb6162434f8af966232e7f522d
+INFO:dazl:cmd submit: party User1, workflow_id 'ead96db', command_id 'e47dd5b', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:Processing transaction: 39, ead96dbd1edb4c2281ebc059edf11a94, e47dd5bd1bef4e3c95a6be25f8731815
+INFO:dazl:network_run terminating on user request...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Writer loop for party User1 is winding down.
+INFO:dazl:Network bots coroutine finished.
+INFO:dazl:Party User1 bots coroutine finished.
+INFO:dazl:network_run: finished.
+INFO:dazl:The aio_run coroutine has completed.
+INFO:dazl:The internal run_forever event loop has been shut down.
+INFO:dazl:No server_port configuration was specified, so metrics and other stats will not be served.
+INFO:dazl:Network bots coroutine started.
+INFO:dazl:Party Admin bots coroutine started.
+INFO:dazl:Establishing a connection to http://localhost:6865 on party Admin...
+INFO:dazl:Ledger ID: fabric-ledger
+INFO:dazl:Parsed 456048 bytes of metadata in 54 ms.
+INFO:dazl:Parsed 1372 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 463 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 194 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 59 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 357 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 235 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 840 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 53 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 871 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 74 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 1787 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 58 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 275 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 169 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 25068 bytes of metadata in  3 ms.
+INFO:dazl:Parsed 18006 bytes of metadata in  2 ms.
+INFO:dazl:Parsed 513 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 673099 bytes of metadata in 80 ms.
+INFO:dazl:Reading current ledger state from the Active Contract Set service...
+INFO:dazl:Writer loop for party Admin is starting...
+INFO:dazl:Processing transaction: 29, 7481712ac144465d8401ca7307d3d9f9, 
+INFO:dazl:Processing transaction: 31, 68d2b2e4a4874b1c817d8c19808f8693, 
+INFO:dazl:Processing transaction: 32, 8171f95362a04efc84d311c1c7262e5a, 
+INFO:dazl:Processing transaction: 33, b3e805fd65484ee9906c2c8f3678f3ab, 
+INFO:dazl:Processing transaction: 34, 9f0c255ce0e84d6b91f1462233cd24b1, 
+INFO:dazl:Processing transaction: 35, de98a6b92abf454ba15272d1909b1c09, 
+INFO:dazl:Processing transaction: 36, bfc73305ade144ee9273d489a62a5038, 
+INFO:dazl:Processing transaction: 37, 3098c03868754d979202611783cf0c9b, 
+INFO:dazl:Processing transaction: 38, 570e4d82bae347a0bc5fd7a59b71b9de, 
+INFO:dazl:Processing transaction: 39, ead96dbd1edb4c2281ebc059edf11a94, 
+INFO:dazl:cmd submit: party Admin, workflow_id '69e2191', command_id 'acc55e7', 1 command: "[<create FabCa...in': 'User1'}>]"
+INFO:dazl:Processing transaction: 85, 69e219187cf64a9ca22175d477fc78ef, acc55e772bb5471f9d9292f14b714863
+INFO:dazl:network_run terminating on user request...
+INFO:dazl:Stopping the bot thread for party 'Admin'...
+INFO:dazl:Stopping the bot thread for party 'Admin'...
+INFO:dazl:Writer loop for party Admin is winding down.
+INFO:dazl:Network bots coroutine finished.
+INFO:dazl:Party Admin bots coroutine finished.
+INFO:dazl:network_run: finished.
+INFO:dazl:The aio_run coroutine has completed.
+INFO:dazl:The internal run_forever event loop has been shut down.
+INFO:dazl:No server_port configuration was specified, so metrics and other stats will not be served.
+INFO:dazl:Network bots coroutine started.
+INFO:dazl:Party Admin bots coroutine started.
+INFO:dazl:Establishing a connection to http://localhost:6865 on party Admin...
+INFO:dazl:Ledger ID: fabric-ledger
+INFO:dazl:Parsed 456048 bytes of metadata in 55 ms.
+INFO:dazl:Parsed 1372 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 463 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 194 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 59 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 357 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 235 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 840 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 53 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 871 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 74 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 1787 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 58 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 275 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 169 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 25068 bytes of metadata in  3 ms.
+INFO:dazl:Parsed 18006 bytes of metadata in  2 ms.
+INFO:dazl:Parsed 513 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 673099 bytes of metadata in 78 ms.
+INFO:dazl:Reading current ledger state from the Active Contract Set service...
+INFO:dazl:Writer loop for party Admin is starting...
+INFO:dazl:Processing transaction: 29, 7481712ac144465d8401ca7307d3d9f9, 
+INFO:dazl:Processing transaction: 31, 68d2b2e4a4874b1c817d8c19808f8693, 
+INFO:dazl:Processing transaction: 32, 8171f95362a04efc84d311c1c7262e5a, 
+INFO:dazl:Processing transaction: 33, b3e805fd65484ee9906c2c8f3678f3ab, 
+INFO:dazl:Processing transaction: 34, 9f0c255ce0e84d6b91f1462233cd24b1, 
+INFO:dazl:Processing transaction: 35, de98a6b92abf454ba15272d1909b1c09, 
+INFO:dazl:Processing transaction: 36, bfc73305ade144ee9273d489a62a5038, 
+INFO:dazl:Processing transaction: 37, 3098c03868754d979202611783cf0c9b, 
+INFO:dazl:Processing transaction: 38, 570e4d82bae347a0bc5fd7a59b71b9de, 
+INFO:dazl:Processing transaction: 39, ead96dbd1edb4c2281ebc059edf11a94, 
+INFO:dazl:Processing transaction: 85, 69e219187cf64a9ca22175d477fc78ef, acc55e772bb5471f9d9292f14b714863
+INFO:dazl:cmd submit: party Admin, workflow_id 'c1b3238', command_id '019e709', 1 command: "[<create FabCa...in': 'User1'}>]"
+INFO:dazl:Processing transaction: 169, c1b323805cc348bda4bf55a4abaea404, 019e70979ab4476c96bd6149aced06ea
+INFO:dazl:network_run terminating on user request...
+INFO:dazl:Stopping the bot thread for party 'Admin'...
+INFO:dazl:Writer loop for party Admin is winding down.
+INFO:dazl:Network bots coroutine finished.
+INFO:dazl:Party Admin bots coroutine finished.
+INFO:dazl:network_run: finished.
+INFO:dazl:The aio_run coroutine has completed.
+INFO:dazl:The internal run_forever event loop has been shut down.
+INFO:dazl:No server_port configuration was specified, so metrics and other stats will not be served.
+INFO:dazl:Network bots coroutine started.
+INFO:dazl:Party Admin bots coroutine started.
+INFO:dazl:Establishing a connection to http://localhost:6865 on party Admin...
+INFO:dazl:Ledger ID: fabric-ledger
+INFO:dazl:Parsed 456048 bytes of metadata in 52 ms.
+INFO:dazl:Parsed 1372 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 463 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 194 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 59 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 357 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 235 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 840 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 53 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 871 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 74 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 1787 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 58 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 275 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 169 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 25068 bytes of metadata in  3 ms.
+INFO:dazl:Parsed 18006 bytes of metadata in  2 ms.
+INFO:dazl:Parsed 513 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 673099 bytes of metadata in 83 ms.
+INFO:dazl:Reading current ledger state from the Active Contract Set service...
+INFO:dazl:Writer loop for party Admin is starting...
+INFO:dazl:Processing transaction: 29, 7481712ac144465d8401ca7307d3d9f9, 
+INFO:dazl:Processing transaction: 31, 68d2b2e4a4874b1c817d8c19808f8693, 
+INFO:dazl:Processing transaction: 32, 8171f95362a04efc84d311c1c7262e5a, 
+INFO:dazl:Processing transaction: 33, b3e805fd65484ee9906c2c8f3678f3ab, 
+INFO:dazl:Processing transaction: 34, 9f0c255ce0e84d6b91f1462233cd24b1, 
+INFO:dazl:Processing transaction: 35, de98a6b92abf454ba15272d1909b1c09, 
+INFO:dazl:Processing transaction: 36, bfc73305ade144ee9273d489a62a5038, 
+INFO:dazl:Processing transaction: 37, 3098c03868754d979202611783cf0c9b, 
+INFO:dazl:Processing transaction: 38, 570e4d82bae347a0bc5fd7a59b71b9de, 
+INFO:dazl:Processing transaction: 39, ead96dbd1edb4c2281ebc059edf11a94, 
+INFO:dazl:Processing transaction: 85, 69e219187cf64a9ca22175d477fc78ef, acc55e772bb5471f9d9292f14b714863
+INFO:dazl:Processing transaction: 169, c1b323805cc348bda4bf55a4abaea404, 019e70979ab4476c96bd6149aced06ea
+INFO:dazl:No server_port configuration was specified, so metrics and other stats will not be served.
+INFO:dazl:Network bots coroutine started.
+INFO:dazl:Party Admin bots coroutine started.
+INFO:dazl:Establishing a connection to http://localhost:6865 on party Admin...
+INFO:dazl:Ledger ID: fabric-ledger
+INFO:dazl:Parsed 456048 bytes of metadata in 48 ms.
+INFO:dazl:Parsed 1372 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 463 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 194 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 59 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 357 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 235 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 840 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 53 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 871 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 74 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 1787 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 58 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 275 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 169 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 25068 bytes of metadata in  3 ms.
+INFO:dazl:Parsed 18006 bytes of metadata in  2 ms.
+INFO:dazl:Parsed 513 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 673099 bytes of metadata in 74 ms.
+INFO:dazl:Reading current ledger state from the Active Contract Set service...
+INFO:dazl:Writer loop for party Admin is starting...
+INFO:dazl:Processing transaction: 29, 7481712ac144465d8401ca7307d3d9f9, 
+INFO:dazl:Processing transaction: 31, 68d2b2e4a4874b1c817d8c19808f8693, 
+INFO:dazl:Processing transaction: 32, 8171f95362a04efc84d311c1c7262e5a, 
+INFO:dazl:Processing transaction: 33, b3e805fd65484ee9906c2c8f3678f3ab, 
+INFO:dazl:Processing transaction: 34, 9f0c255ce0e84d6b91f1462233cd24b1, 
+INFO:dazl:Processing transaction: 35, de98a6b92abf454ba15272d1909b1c09, 
+INFO:dazl:Processing transaction: 36, bfc73305ade144ee9273d489a62a5038, 
+INFO:dazl:Processing transaction: 37, 3098c03868754d979202611783cf0c9b, 
+INFO:dazl:Processing transaction: 38, 570e4d82bae347a0bc5fd7a59b71b9de, 
+INFO:dazl:Processing transaction: 39, ead96dbd1edb4c2281ebc059edf11a94, 
+INFO:dazl:Processing transaction: 85, 69e219187cf64a9ca22175d477fc78ef, acc55e772bb5471f9d9292f14b714863
+INFO:dazl:Processing transaction: 169, c1b323805cc348bda4bf55a4abaea404, 019e70979ab4476c96bd6149aced06ea
+ERROR:asyncio:Exception in callback wrap_as_command_submission.<locals>.implementation.<locals>.cmd_future_finished(<Task finishe...assignment",)>) at /home/iti-696/.local/share/virtualenvs/Python-3B6fkrYV/lib/python3.6/site-packages/dazl/client/bots.py:474
+handle: <Handle wrap_as_command_submission.<locals>.implementation.<locals>.cmd_future_finished(<Task finishe...assignment",)>) at /home/iti-696/.local/share/virtualenvs/Python-3B6fkrYV/lib/python3.6/site-packages/dazl/client/bots.py:474>
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/asyncio/events.py", line 145, in _run
+    self._callback(*self._args)
+  File "/home/iti-696/.local/share/virtualenvs/Python-3B6fkrYV/lib/python3.6/site-packages/dazl/client/bots.py", line 475, in cmd_future_finished
+    ret = cmd_fut.result()
+  File "CreateCar.py", line 43, in init
+    if foundkey == '':
+UnboundLocalError: local variable 'foundkey' referenced before assignment
+INFO:dazl:network_run terminating on user request...
+INFO:dazl:Stopping the bot thread for party 'Admin'...
+INFO:dazl:Writer loop for party Admin is winding down.
+INFO:dazl:Network bots coroutine finished.
+INFO:dazl:network_run: finished.
+INFO:dazl:The aio_run coroutine has completed.
+INFO:dazl:The internal run_forever event loop has been shut down.
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending coro=<BotCollection._main() running at /home/iti-696/.local/share/virtualenvs/Python-3B6fkrYV/lib/python3.6/site-packages/dazl/client/bots.py:375> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f46522ea0d8>()]>>
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending coro=<Bot._main() running at /home/iti-696/.local/share/virtualenvs/Python-3B6fkrYV/lib/python3.6/site-packages/dazl/client/bots.py:125> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f4639efe3a8>(), <TaskWakeupMethWrapper object at 0x7f4639a319a8>()]> cb=[LongRunningAwaitable._future_finished()]>
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending coro=<Bot._handle_event() running at /home/iti-696/.local/share/virtualenvs/Python-3B6fkrYV/lib/python3.6/site-packages/dazl/client/bots.py:157> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f4639a31978>()]> cb=[propagate.<locals>.<lambda>() at /home/iti-696/.local/share/virtualenvs/Python-3B6fkrYV/lib/python3.6/site-packages/dazl/util/asyncio_util.py:242]>
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending coro=<_PartyClientImpl.emit_ready() running at /home/iti-696/.local/share/virtualenvs/Python-3B6fkrYV/lib/python3.6/site-packages/dazl/client/_party_client_impl.py:152> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f4639efe3a8>(), <TaskWakeupMethWrapper object at 0x7f4639a319a8>()]>>
+INFO:dazl:No server_port configuration was specified, so metrics and other stats will not be served.
+INFO:dazl:Network bots coroutine started.
+INFO:dazl:Party Admin bots coroutine started.
+INFO:dazl:Establishing a connection to http://localhost:6865 on party Admin...
+INFO:dazl:Ledger ID: fabric-ledger
+INFO:dazl:Parsed 456048 bytes of metadata in 49 ms.
+INFO:dazl:Parsed 1372 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 463 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 194 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 59 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 357 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 235 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 840 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 53 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 871 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 74 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 1787 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 58 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 275 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 169 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 25068 bytes of metadata in  3 ms.
+INFO:dazl:Parsed 18006 bytes of metadata in  2 ms.
+INFO:dazl:Parsed 513 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 673099 bytes of metadata in 77 ms.
+INFO:dazl:Reading current ledger state from the Active Contract Set service...
+INFO:dazl:Writer loop for party Admin is starting...
+INFO:dazl:Processing transaction: 29, 7481712ac144465d8401ca7307d3d9f9, 
+INFO:dazl:Processing transaction: 31, 68d2b2e4a4874b1c817d8c19808f8693, 
+INFO:dazl:Processing transaction: 32, 8171f95362a04efc84d311c1c7262e5a, 
+INFO:dazl:Processing transaction: 33, b3e805fd65484ee9906c2c8f3678f3ab, 
+INFO:dazl:Processing transaction: 34, 9f0c255ce0e84d6b91f1462233cd24b1, 
+INFO:dazl:Processing transaction: 35, de98a6b92abf454ba15272d1909b1c09, 
+INFO:dazl:Processing transaction: 36, bfc73305ade144ee9273d489a62a5038, 
+INFO:dazl:Processing transaction: 37, 3098c03868754d979202611783cf0c9b, 
+INFO:dazl:Processing transaction: 38, 570e4d82bae347a0bc5fd7a59b71b9de, 
+INFO:dazl:Processing transaction: 39, ead96dbd1edb4c2281ebc059edf11a94, 
+INFO:dazl:Processing transaction: 85, 69e219187cf64a9ca22175d477fc78ef, acc55e772bb5471f9d9292f14b714863
+INFO:dazl:Processing transaction: 169, c1b323805cc348bda4bf55a4abaea404, 019e70979ab4476c96bd6149aced06ea
+INFO:dazl:cmd submit: party Admin, workflow_id '53ffa36', command_id '32ea2d2', 1 command: "[<create FabCa...in': 'User1'}>]"
+INFO:dazl:Processing transaction: 298, 53ffa36fea394ee88074dae2167cf933, 32ea2d232590419a8761bd4f5f6a6d96
+INFO:dazl:network_run terminating on user request...
+INFO:dazl:Stopping the bot thread for party 'Admin'...
+INFO:dazl:Writer loop for party Admin is winding down.
+INFO:dazl:Network bots coroutine finished.
+INFO:dazl:Party Admin bots coroutine finished.
+INFO:dazl:network_run: finished.
+INFO:dazl:The aio_run coroutine has completed.
+INFO:dazl:The internal run_forever event loop has been shut down.
+INFO:dazl:No server_port configuration was specified, so metrics and other stats will not be served.
+INFO:dazl:Network bots coroutine started.
+INFO:dazl:Party User1 bots coroutine started.
+INFO:dazl:Establishing a connection to http://localhost:6865 on party User1...
+INFO:dazl:Ledger ID: fabric-ledger
+INFO:dazl:Parsed 456048 bytes of metadata in 53 ms.
+INFO:dazl:Parsed 1372 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 463 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 194 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 59 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 357 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 235 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 840 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 53 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 871 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 74 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 1787 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 58 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 275 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 169 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 25068 bytes of metadata in  3 ms.
+INFO:dazl:Parsed 18006 bytes of metadata in  2 ms.
+INFO:dazl:Parsed 513 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 673099 bytes of metadata in 79 ms.
+INFO:dazl:Reading current ledger state from the Active Contract Set service...
+INFO:dazl:Writer loop for party User1 is starting...
+INFO:root:Initializing car for Tomoko
+INFO:root:Initializing car for Brad
+INFO:root:Initializing car for Jin Soo
+INFO:root:Initializing car for Max
+INFO:root:Initializing car for Adriana
+INFO:root:Initializing car for Michel
+INFO:root:Initializing car for Aarav
+INFO:root:Initializing car for Pari
+INFO:root:Initializing car for Valeria
+INFO:root:Initializing car for Shotaro
+INFO:dazl:cmd submit: party User1, workflow_id '3fb9c0a', command_id '3a8918b', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:cmd submit: party User1, workflow_id 'fca564f', command_id '7b072c3', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:Processing transaction: 31, 3fb9c0a6899740c9ba88396c37a90c40, 3a8918bcac7746f9840e34cbce2933a6
+INFO:dazl:cmd submit: party User1, workflow_id '56d1a7d', command_id 'de396df', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:Processing transaction: 32, fca564f35e0f4881b0e2abfe7eae22be, 7b072c31246a4ca18c8fdacf6e597b30
+INFO:dazl:cmd submit: party User1, workflow_id '41ed89b', command_id 'a80b2bd', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:cmd submit: party User1, workflow_id '2024e72', command_id '4383813', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:Processing transaction: 34, 56d1a7d703d34690b0d89aa990cbed4b, de396dfc4bc7406c9f4f4e3eb0927e20
+INFO:dazl:Processing transaction: 35, 41ed89be960643bbbc0ce31d0f813c36, a80b2bd4c28942868588a1071574b120
+INFO:dazl:cmd submit: party User1, workflow_id 'bd942e0', command_id '7050684', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:Processing transaction: 36, 2024e72e2d6a4fd89cb8565ff9eef92d, 4383813807634639a792f13eefcece52
+INFO:dazl:cmd submit: party User1, workflow_id '4c17c6e', command_id '4aaecfe', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:Processing transaction: 37, bd942e02295e4a82baaa9a0be6397137, 7050684620424cb48fb493c6c3cb83b0
+INFO:dazl:cmd submit: party User1, workflow_id '47c1da5', command_id 'ac676ae', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:cmd submit: party User1, workflow_id '97b90c3', command_id '6450fa2', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:Processing transaction: 38, 4c17c6e8c70b4f7c969b0c92c7d120b5, 4aaecfe6282948ab9f70e18141f14cf8
+INFO:dazl:Processing transaction: 39, 47c1da5adf7f444ca4f10b7d08393b28, ac676ae56016472ca4b2b221bb0acd1b
+INFO:dazl:cmd submit: party User1, workflow_id '6a6de4a', command_id '02413fa', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:Processing transaction: 40, 97b90c3d25cc4f38b207c84307cb7b98, 6450fa288adc4d0bb968b7c28ab18be8
+INFO:dazl:Processing transaction: 41, 6a6de4ae03b44e1ba12d92f55b5a8c68, 02413fa8dd7e4eb289d4fbbeb0720797
+INFO:dazl:network_run terminating on user request...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Writer loop for party User1 is winding down.
+INFO:dazl:Network bots coroutine finished.
+INFO:dazl:Party User1 bots coroutine finished.
+INFO:dazl:network_run: finished.
+INFO:dazl:The aio_run coroutine has completed.
+INFO:dazl:The internal run_forever event loop has been shut down.
+INFO:dazl:No server_port configuration was specified, so metrics and other stats will not be served.
+INFO:dazl:Network bots coroutine started.
+INFO:dazl:Party User1 bots coroutine started.
+INFO:dazl:Establishing a connection to http://localhost:6865 on party User1...
+INFO:dazl:Ledger ID: fabric-ledger
+INFO:dazl:Parsed 456048 bytes of metadata in 51 ms.
+INFO:dazl:Parsed 1372 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 463 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 194 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 59 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 357 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 235 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 840 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 53 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 871 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 74 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 1787 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 58 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 275 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 169 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 25068 bytes of metadata in  3 ms.
+INFO:dazl:Parsed 18006 bytes of metadata in  2 ms.
+INFO:dazl:Parsed 513 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 673099 bytes of metadata in 77 ms.
+INFO:dazl:Reading current ledger state from the Active Contract Set service...
+INFO:dazl:Writer loop for party User1 is starting...
+INFO:dazl:Processing transaction: 31, 3fb9c0a6899740c9ba88396c37a90c40, 3a8918bcac7746f9840e34cbce2933a6
+INFO:dazl:Processing transaction: 32, fca564f35e0f4881b0e2abfe7eae22be, 7b072c31246a4ca18c8fdacf6e597b30
+INFO:dazl:Processing transaction: 34, 56d1a7d703d34690b0d89aa990cbed4b, de396dfc4bc7406c9f4f4e3eb0927e20
+INFO:dazl:Processing transaction: 35, 41ed89be960643bbbc0ce31d0f813c36, a80b2bd4c28942868588a1071574b120
+INFO:dazl:Processing transaction: 36, 2024e72e2d6a4fd89cb8565ff9eef92d, 4383813807634639a792f13eefcece52
+INFO:dazl:Processing transaction: 37, bd942e02295e4a82baaa9a0be6397137, 7050684620424cb48fb493c6c3cb83b0
+INFO:dazl:Processing transaction: 38, 4c17c6e8c70b4f7c969b0c92c7d120b5, 4aaecfe6282948ab9f70e18141f14cf8
+INFO:dazl:Processing transaction: 39, 47c1da5adf7f444ca4f10b7d08393b28, ac676ae56016472ca4b2b221bb0acd1b
+INFO:dazl:Processing transaction: 40, 97b90c3d25cc4f38b207c84307cb7b98, 6450fa288adc4d0bb968b7c28ab18be8
+INFO:dazl:Processing transaction: 41, 6a6de4ae03b44e1ba12d92f55b5a8c68, 02413fa8dd7e4eb289d4fbbeb0720797
+INFO:dazl:network_run terminating on user request...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Writer loop for party User1 is winding down.
+INFO:dazl:Network bots coroutine finished.
+INFO:dazl:Party User1 bots coroutine finished.
+INFO:dazl:network_run: finished.
+INFO:dazl:The aio_run coroutine has completed.
+INFO:dazl:The internal run_forever event loop has been shut down.
+INFO:dazl:No server_port configuration was specified, so metrics and other stats will not be served.
+INFO:dazl:Network bots coroutine started.
+INFO:dazl:Party User1 bots coroutine started.
+INFO:dazl:Establishing a connection to http://localhost:6865 on party User1...
+INFO:dazl:Ledger ID: fabric-ledger
+INFO:dazl:Parsed 456048 bytes of metadata in 52 ms.
+INFO:dazl:Parsed 1372 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 463 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 194 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 59 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 357 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 235 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 840 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 53 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 871 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 74 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 1787 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 58 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 275 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 169 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 25068 bytes of metadata in  3 ms.
+INFO:dazl:Parsed 18006 bytes of metadata in  3 ms.
+INFO:dazl:Parsed 513 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 673099 bytes of metadata in 77 ms.
+INFO:dazl:Reading current ledger state from the Active Contract Set service...
+INFO:dazl:Writer loop for party User1 is starting...
+INFO:dazl:Processing transaction: 31, 3fb9c0a6899740c9ba88396c37a90c40, 3a8918bcac7746f9840e34cbce2933a6
+INFO:dazl:Processing transaction: 32, fca564f35e0f4881b0e2abfe7eae22be, 7b072c31246a4ca18c8fdacf6e597b30
+INFO:dazl:Processing transaction: 34, 56d1a7d703d34690b0d89aa990cbed4b, de396dfc4bc7406c9f4f4e3eb0927e20
+INFO:dazl:Processing transaction: 35, 41ed89be960643bbbc0ce31d0f813c36, a80b2bd4c28942868588a1071574b120
+INFO:dazl:Processing transaction: 36, 2024e72e2d6a4fd89cb8565ff9eef92d, 4383813807634639a792f13eefcece52
+INFO:dazl:Processing transaction: 37, bd942e02295e4a82baaa9a0be6397137, 7050684620424cb48fb493c6c3cb83b0
+INFO:dazl:Processing transaction: 38, 4c17c6e8c70b4f7c969b0c92c7d120b5, 4aaecfe6282948ab9f70e18141f14cf8
+INFO:dazl:Processing transaction: 39, 47c1da5adf7f444ca4f10b7d08393b28, ac676ae56016472ca4b2b221bb0acd1b
+INFO:dazl:Processing transaction: 40, 97b90c3d25cc4f38b207c84307cb7b98, 6450fa288adc4d0bb968b7c28ab18be8
+INFO:dazl:Processing transaction: 41, 6a6de4ae03b44e1ba12d92f55b5a8c68, 02413fa8dd7e4eb289d4fbbeb0720797
+INFO:dazl:cmd submit: party User1, workflow_id 'f87319d', command_id '6888f59', 1 command: '[<exercise "Ne...E29BDEB0081:0>]'
+INFO:dazl:Processing transaction: 53, f87319df533140f7b10468695b580ee8, 6888f595330c4b76af9d350903305ee9
+INFO:dazl:network_run terminating on user request...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Writer loop for party User1 is winding down.
+INFO:dazl:Network bots coroutine finished.
+INFO:dazl:Party User1 bots coroutine finished.
+INFO:dazl:network_run: finished.
+INFO:dazl:The aio_run coroutine has completed.
+INFO:dazl:The internal run_forever event loop has been shut down.
+INFO:dazl:No server_port configuration was specified, so metrics and other stats will not be served.
+INFO:dazl:Network bots coroutine started.
+INFO:dazl:Party Admin bots coroutine started.
+INFO:dazl:Establishing a connection to http://localhost:6865 on party Admin...
+INFO:dazl:Ledger ID: fabric-ledger
+INFO:dazl:Parsed 456048 bytes of metadata in 55 ms.
+INFO:dazl:Parsed 1372 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 463 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 194 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 59 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 357 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 235 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 840 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 53 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 871 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 74 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 1787 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 58 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 275 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 169 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 25068 bytes of metadata in  3 ms.
+INFO:dazl:Parsed 18006 bytes of metadata in  2 ms.
+INFO:dazl:Parsed 513 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 673099 bytes of metadata in 79 ms.
+INFO:dazl:Reading current ledger state from the Active Contract Set service...
+INFO:dazl:Writer loop for party Admin is starting...
+INFO:dazl:Processing transaction: 31, 3fb9c0a6899740c9ba88396c37a90c40, 
+INFO:dazl:Processing transaction: 32, fca564f35e0f4881b0e2abfe7eae22be, 
+INFO:dazl:Processing transaction: 34, 56d1a7d703d34690b0d89aa990cbed4b, 
+INFO:dazl:Processing transaction: 35, 41ed89be960643bbbc0ce31d0f813c36, 
+INFO:dazl:Processing transaction: 36, 2024e72e2d6a4fd89cb8565ff9eef92d, 
+INFO:dazl:Processing transaction: 37, bd942e02295e4a82baaa9a0be6397137, 
+INFO:dazl:Processing transaction: 38, 4c17c6e8c70b4f7c969b0c92c7d120b5, 
+INFO:dazl:Processing transaction: 39, 47c1da5adf7f444ca4f10b7d08393b28, 
+INFO:dazl:Processing transaction: 40, 97b90c3d25cc4f38b207c84307cb7b98, 
+INFO:dazl:Processing transaction: 41, 6a6de4ae03b44e1ba12d92f55b5a8c68, 
+INFO:dazl:Processing transaction: 53, f87319df533140f7b10468695b580ee8, 
+INFO:dazl:No server_port configuration was specified, so metrics and other stats will not be served.
+INFO:dazl:Network bots coroutine started.
+INFO:dazl:Party Admin bots coroutine started.
+INFO:dazl:Establishing a connection to http://localhost:6865 on party Admin...
+INFO:dazl:Ledger ID: fabric-ledger
+INFO:dazl:Parsed 456048 bytes of metadata in 52 ms.
+INFO:dazl:Parsed 1372 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 463 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 194 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 59 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 357 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 235 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 840 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 53 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 871 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 74 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 1787 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 58 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 275 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 169 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 25068 bytes of metadata in  3 ms.
+INFO:dazl:Parsed 18006 bytes of metadata in  2 ms.
+INFO:dazl:Parsed 513 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 673099 bytes of metadata in 83 ms.
+INFO:dazl:Reading current ledger state from the Active Contract Set service...
+INFO:dazl:Writer loop for party Admin is starting...
+INFO:dazl:Processing transaction: 31, 3fb9c0a6899740c9ba88396c37a90c40, 
+INFO:dazl:Processing transaction: 32, fca564f35e0f4881b0e2abfe7eae22be, 
+INFO:dazl:Processing transaction: 34, 56d1a7d703d34690b0d89aa990cbed4b, 
+INFO:dazl:Processing transaction: 35, 41ed89be960643bbbc0ce31d0f813c36, 
+INFO:dazl:Processing transaction: 36, 2024e72e2d6a4fd89cb8565ff9eef92d, 
+INFO:dazl:Processing transaction: 37, bd942e02295e4a82baaa9a0be6397137, 
+INFO:dazl:Processing transaction: 38, 4c17c6e8c70b4f7c969b0c92c7d120b5, 
+INFO:dazl:Processing transaction: 39, 47c1da5adf7f444ca4f10b7d08393b28, 
+INFO:dazl:Processing transaction: 40, 97b90c3d25cc4f38b207c84307cb7b98, 
+INFO:dazl:Processing transaction: 41, 6a6de4ae03b44e1ba12d92f55b5a8c68, 
+INFO:dazl:Processing transaction: 53, f87319df533140f7b10468695b580ee8, 
+INFO:dazl:cmd submit: party Admin, workflow_id '8d67c8d', command_id 'fd02d57', 1 command: "[<create FabCa...in': 'User1'}>]"
+INFO:dazl:Processing transaction: 71, 8d67c8d0ff5a4753917d77abadb2530b, fd02d57ea42b4dc194074650abebba5f
+INFO:dazl:network_run terminating on user request...
+INFO:dazl:Stopping the bot thread for party 'Admin'...
+INFO:dazl:Writer loop for party Admin is winding down.
+INFO:dazl:Network bots coroutine finished.
+INFO:dazl:Party Admin bots coroutine finished.
+INFO:dazl:network_run: finished.
+INFO:dazl:The aio_run coroutine has completed.
+INFO:dazl:The internal run_forever event loop has been shut down.
+INFO:dazl:No server_port configuration was specified, so metrics and other stats will not be served.
+INFO:dazl:Network bots coroutine started.
+INFO:dazl:Party User1 bots coroutine started.
+INFO:dazl:Establishing a connection to http://localhost:6865 on party User1...
+INFO:dazl:Ledger ID: sandbox-c73b5f66-4114-4865-a5c8-227be4dcfef1
+INFO:dazl:Parsed 456048 bytes of metadata in 58 ms.
+INFO:dazl:Parsed 1372 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 463 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 194 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 59 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 357 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 235 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 840 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 53 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 871 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 74 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 1787 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 58 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 275 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 169 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 25068 bytes of metadata in  5 ms.
+INFO:dazl:Parsed 18006 bytes of metadata in  2 ms.
+INFO:dazl:Parsed 513 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 673099 bytes of metadata in 89 ms.
+INFO:dazl:Reading current ledger state from the Active Contract Set service...
+INFO:dazl:Writer loop for party User1 is starting...
+INFO:dazl:cmd submit: party User1, workflow_id '98ed269', command_id '1e79c53', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:cmd submit: party User1, workflow_id '3b760ee', command_id 'd83c0d0', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:cmd submit: party User1, workflow_id 'ce90c3c', command_id '83d26af', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:cmd submit: party User1, workflow_id 'b86cd8e', command_id '0d4e551', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:cmd submit: party User1, workflow_id '729b76c', command_id '5bcb4c4', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:cmd submit: party User1, workflow_id 'e4f6099', command_id '62b2903', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:cmd submit: party User1, workflow_id '4d38fb4', command_id '71420d8', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:cmd submit: party User1, workflow_id '33c0551', command_id '90d911c', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:cmd submit: party User1, workflow_id 'ccad5a1', command_id '66bce70', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:cmd submit: party User1, workflow_id '98e7f22', command_id 'e4ba80a', 1 command: "[<create FabCa...in': 'Admin'}>]"
+INFO:dazl:Processing transaction: 1, 98ed269e6bbf44b3bab43c9d1f565fc0, 1e79c5366e83421abfaf65460ce1bcc6
+INFO:dazl:Processing transaction: 2, 3b760ee441af428e8d9564cc3bf87967, d83c0d0b069446959c18ff8db0dc1160
+INFO:dazl:Processing transaction: 3, ce90c3c5b8dd488dbdef6b2051135f20, 83d26af2b2a64b658ea4564a90229b42
+INFO:dazl:Processing transaction: 4, b86cd8e0ce904c71b0a9a9ecfb7a01fb, 0d4e5516421b490f82c6b8bbe8d59b4a
+INFO:dazl:Processing transaction: 5, 729b76c954a6471eaf34b44e508fcc42, 5bcb4c43d2764a62aaae2c2ecf9737af
+INFO:dazl:Processing transaction: 6, e4f609902de1447fb02783b43695cf75, 62b290353e014fdf95d4654ba4521463
+INFO:dazl:Processing transaction: 7, 4d38fb47f6be499eb67536686f441a7e, 71420d8a9c314c4a9682267316780e1d
+INFO:dazl:Processing transaction: 8, 33c05512fbbf437285ba69e46776d3cd, 90d911cf300644bc8d02b4a80ff1e6c1
+INFO:dazl:Processing transaction: 9, ccad5a1ceb1043cb8420b8466d1e38d1, 66bce702081c44e482ac711f114d77a1
+INFO:dazl:Processing transaction: 10, 98e7f225611d4ae7b387cb1347af36df, e4ba80a1a2b145ef94c75925d0fb5ada
+INFO:dazl:network_run terminating on user request...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Stopping the bot thread for party 'User1'...
+INFO:dazl:Writer loop for party User1 is winding down.
+INFO:dazl:Network bots coroutine finished.
+INFO:dazl:Party User1 bots coroutine finished.
+INFO:dazl:network_run: finished.
+INFO:dazl:The aio_run coroutine has completed.
+INFO:dazl:The internal run_forever event loop has been shut down.
+INFO:dazl:No server_port configuration was specified, so metrics and other stats will not be served.
+INFO:dazl:Network bots coroutine started.
+INFO:dazl:Party Admin bots coroutine started.
+INFO:dazl:Establishing a connection to http://localhost:6865 on party Admin...
+INFO:dazl:Ledger ID: sandbox-d6cb8f08-a5d6-46ae-bfc8-4bef5df4500a
+INFO:dazl:Parsed 456048 bytes of metadata in 52 ms.
+INFO:dazl:Parsed 1372 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 463 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 194 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 59 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 357 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 235 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 840 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 53 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 871 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 74 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 1787 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 58 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 275 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 169 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 25068 bytes of metadata in  3 ms.
+INFO:dazl:Parsed 18006 bytes of metadata in  2 ms.
+INFO:dazl:Parsed 513 bytes of metadata in  0 ms.
+INFO:dazl:Parsed 673099 bytes of metadata in 92 ms.
+INFO:dazl:Reading current ledger state from the Active Contract Set service...
+INFO:dazl:Writer loop for party Admin is starting...
+INFO:dazl:cmd submit: party Admin, workflow_id '54ceed6', command_id 'd2c87c9', 1 command: "[<create FabCa...in': 'User1'}>]"
+INFO:dazl:Processing transaction: 1, 54ceed63b0ec46d0b227dd8f1d943269, d2c87c961a2f4cb3af8eae420e275a73
+INFO:dazl:network_run terminating on user request...
+INFO:dazl:Stopping the bot thread for party 'Admin'...
+INFO:dazl:Writer loop for party Admin is winding down.
+INFO:dazl:Network bots coroutine finished.
+INFO:dazl:Party Admin bots coroutine finished.
+INFO:dazl:network_run: finished.
+INFO:dazl:The aio_run coroutine has completed.
+INFO:dazl:The internal run_forever event loop has been shut down.
