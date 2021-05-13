@@ -1,0 +1,23 @@
+daml 1.2
+module FabCar where
+
+template Auction
+ with
+  keyCar : Text
+  color : Text
+  make : Text
+  model : Text
+  owner : Text
+  admin : Party
+  user : Party
+ where
+  signatory user 
+  observer admin
+
+  controller user can
+      Newowner: ContractId Auction
+        with
+          newOwner : Text
+        do
+          create this with
+            owner = newOwner
